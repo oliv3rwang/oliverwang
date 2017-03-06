@@ -49,6 +49,12 @@ a:focus {
   text-decoration: none;
   color: #1d9b6c;
 }
+.linkedin {
+  height:100px;
+}
+.ow {
+  height:100px;
+}
 .light {
   font-weight: 400;
 }
@@ -137,6 +143,7 @@ a:focus {
 }
 .intro .intro-body .brand-heading {
   font-size: 40px;
+  white-space: nowrap;
 }
 .intro .intro-body .intro-text {
   font-size: 18px;
